@@ -98,7 +98,7 @@ If Task Breakdown Assistant isn't working:
 
 You can use Task Breakdown Assistant for anything that seems too big or hard! Like cleaning your room, doing homework, or learning something new!
 
-Remember: Taking small steps makes big jobs easier! 🌟
+Remember: Taking small steps makes big jobs easier!
 
 ## Technical Details (For Grown-ups)
 
